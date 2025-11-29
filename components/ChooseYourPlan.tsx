@@ -79,7 +79,7 @@ export default function ChoosePlan() {
   };
 
   // HEIGHT SYNC SYSTEM
-  const cardRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const cardRefs = useRef<(HTMLDivElement | null )[]>([]);
   const [maxHeight, setMaxHeight] = useState(0);
 
   useEffect(() => {
@@ -129,7 +129,8 @@ export default function ChoosePlan() {
               >
                 {/* FRONT */}
                 <div
-                  ref={(el) => (cardRefs.current[i] = el)}
+                  ref={(el) => { cardRefs.current[i] = el; }}
+
                   className="absolute inset-0 rounded-xl p-6 flex flex-col justify-between"
                   style={{
                     backfaceVisibility: "hidden",
