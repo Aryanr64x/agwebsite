@@ -49,9 +49,11 @@ export default function TherapyProcess() {
   return (
     <section className="py-16">
       <div className="max-w-6xl mx-auto px-6">
+        
         <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-900">
           The Process of Effective Therapy
         </h2>
+
         <p className="mt-4 text-center text-gray-600 max-w-3xl mx-auto leading-relaxed">
           Therapy is a collaborative journey — one that helps you understand yourself better, manage challenges, and build a more fulfilling life. It's not about "fixing" you, but about guiding you toward awareness, healing, and growth at your own pace.
         </p>

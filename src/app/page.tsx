@@ -17,6 +17,7 @@ import WorkEthics from "../../components/WorkEthics";
 import WordsThatInspire from "../../components/WordsThatInspire";
 import GetInTouch from "../../components/GetInTouch";
 import Footer from "../../components/Footer";
+import FAQ from "../../components/FAQ";
 // https://www.figma.com/make/fxf46qH3KOadluCPp5pcbb/Counselling-Practice-Template?node-id=0-4&t=oGp3XjL0lJDVZAoS-1
 
 export default function Home() {
@@ -37,6 +38,7 @@ export default function Home() {
       <About />
       <MissionVision />
       <WorkEthics />
+      <FAQ />
       <WordsThatInspire />
       <GetInTouch />    
       <hr />
