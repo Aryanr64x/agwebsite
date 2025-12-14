@@ -36,7 +36,7 @@ const services: Service[] = [
 
 export default function Services() {
   return (
-    <section className="py-16">
+    <section className="py-16" id="services">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-900">
           Our Services

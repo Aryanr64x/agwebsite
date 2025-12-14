@@ -13,7 +13,7 @@ export default function Welcome() {
 
         <div className="flex justify-center">
           <Image
-            src="/placeholder.jpg" 
+            src="/welcome.jpg" 
             alt="Safe Space"
             width={500}
             height={500}

@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section className="py-16 ">
+    <section className="py-16" id="about">
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-900">
@@ -19,7 +19,7 @@ export default function About() {
           <div className="flex justify-center">
             <div className="relative w-80 h-96 rounded-xl overflow-hidden shadow-lg">
               <Image
-                src="/images/annesha.jpg"
+                src="/about.jpg"
                 alt="Annesha Guha"
                 fill
                 className="object-cover"

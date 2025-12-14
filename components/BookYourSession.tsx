@@ -29,7 +29,7 @@ const steps: Step[] = [
 
 export default function BookJourney() {
   return (
-    <section className="py-16 ">
+    <section className="py-16" id="bookyoursession">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-900">
           Book Your Session

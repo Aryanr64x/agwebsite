@@ -7,7 +7,7 @@ import {
 
 const FAQ = () => {
   return (
-    <section className="w-full py-20 flex justify-center px-4">
+    <section className="w-full py-20 flex justify-center px-4" id="faq">
       <div className="w-full max-w-5xl">
         {/* FAQ Card */}
         <div className="border border-border rounded-2xl p-8 sm:p-12 backdrop-blur-sm">
