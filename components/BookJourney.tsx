@@ -22,10 +22,12 @@ export default function BookJourney() {
         <h3 className="text-3xl md:text-4xl font-bold text-fuchsia-700 pt-4">
           YOU MATTER!
         </h3>
-
-        <button className="mt-6 px-8 py-3 bg-fuchsia-700 text-white rounded-xl text-lg font-semibold hover:bg-fuchsia-800 transition-all">
+      <a href="#bookyoursession">
+           <button className="mt-6 px-8 py-3 bg-fuchsia-700 text-white rounded-xl text-lg font-semibold hover:bg-fuchsia-800 transition-all">
           Begin your journey
         </button>
+      </a>
+       
       </div>
     </section>
   );

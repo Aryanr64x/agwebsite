@@ -23,7 +23,7 @@ const steps: Step[] = [
     number: 3,
     title: "Confirm with payment",
     description:
-      "Once I receive your email, I will confirm the available slot and reply with payment details",
+      "Confirm with payment:- After completing the payment, your session will be confirmed and the session link will be sent to your registered email address",
   },
 ];
 

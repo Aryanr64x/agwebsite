@@ -93,7 +93,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="space-y-4">
           <p className="text-gray-400 text-sm text-center">
-            © 2025 Lavender & Light: Therapy by Annesha. All rights reserved.
+            © 2026 Lavender & Light: Therapy by Annesha. All rights reserved.
           </p>
 
           <div className="flex flex-col md:flex-row justify-center gap-6 text-sm">

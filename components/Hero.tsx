@@ -57,8 +57,7 @@ const Hero = () => {
                       to life satisfaction.
                     </li>
                     <li>
-                      <b>Physical health:</b> Stress can contribute to chronic conditions
-                      like heart disease.
+                      <b>Physical health:</b> There is a strong connection between mental health and physical health, good mental health=good physical health
                     </li>
                     <li>
                       <b>Relationships:</b> Good mental health enables positive and healthy

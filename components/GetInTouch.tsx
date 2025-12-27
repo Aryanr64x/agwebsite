@@ -12,7 +12,7 @@ const contacts: Contact[] = [
   },
   {
     label: "Phone",
-    value: "+91 XXXXX XXXXX",
+    value: "+91 93223 19489",
   },
   {
     label: "Availability",
