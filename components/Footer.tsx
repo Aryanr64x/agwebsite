@@ -97,19 +97,26 @@ export default function Footer() {
           </p>
 
           <div className="flex flex-col md:flex-row justify-center gap-6 text-sm">
-            <Link href="#privacy" className="text-gray-400 hover:text-fuchsia-400 transition">
+            <Link href="/terms-of-service" className="text-gray-400 hover:text-fuchsia-400 transition">
+              Terms of Service
+            </Link>
+             <span className="text-gray-600">•</span>
+            <Link href="/privacy-policy" className="text-gray-400 hover:text-fuchsia-400 transition">
               Privacy Policy
             </Link>
             <span className="text-gray-600">•</span>
-            <Link href="#terms" className="text-gray-400 hover:text-fuchsia-400 transition">
-              Terms of Service
+            
+             <Link href="/refund-policy" className="text-gray-400 hover:text-fuchsia-400 transition">
+              Refund Policy
             </Link>
           </div>
 
           <p className="text-xs text-gray-500 text-center leading-relaxed">
             Professional counselling services • Not for emergency situations • In case
             of emergency, please contact local emergency services
-          </p>
+          </p>  
+
+
         </div>
       </div>
     </footer>

@@ -59,12 +59,12 @@ const Navbar = () => {
 };
 
 const navItems = [
-  { label: "Home", href: "#" },
-  { label: "About", href: "#about" },
-  { label: "Services", href: "#services" },
-  { label: "Book a Session", href: "#bookyoursession" },
+  { label: "Home", href: "/#" },
+  { label: "About", href: "/#about" },
+  { label: "Services", href: "/#services" },
+  { label: "Book a Session", href: "/#bookyoursession" },
   { label: "FAQ", href: "#faq" },
-  { label: "Contact", href: "#getintouch" },
+  { label: "Contact", href: "/#getintouch" },
 ];
 
 export default Navbar;
