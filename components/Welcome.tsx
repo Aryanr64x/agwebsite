@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Welcome() {
   return (
-    <section className="w-full py-20 flex flex-col items-center text-center px-4">
+    <section className="w-full bg-transparent py-20 flex flex-col items-center text-center px-4">
       <h2 className="text-3xl md:text-4xl font-bold mb-12 max-w-3xl">
         Welcome to Your Safe Space, LightKeepers!
       </h2>
