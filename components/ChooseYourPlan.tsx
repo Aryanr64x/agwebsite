@@ -150,18 +150,17 @@ export default function ChoosePlan() {
                         ₹{plan.perSession} per session
                       </p>
                     </div>
-
-                    <ul className="mt-4 space-y-2">
-                      {plan.frontBullets.map((bullet, idx) => (
+                 <ul className="mt-4 space-y-2">
+                       {plan.frontBullets.map((bullet, idx) => (
                         <li
                           key={idx}
                           className="flex items-start gap-2 text-sm text-gray-700"
                         >
-                          <span className="text-fuchsia-600 mt-1">•</span>
-                          <span>{bullet}</span>
+                          <span className="text-fuchsia-600 mt-1"></span>
+                          {/* <span>{bullet}</span> */}
                         </li>
-                      ))}
-                    </ul>
+                      ))} 
+                    </ul> 
 
                     {plan.savings && (
                       <div className="mt-4 bg-fuchsia-50 rounded p-2 text-center">
