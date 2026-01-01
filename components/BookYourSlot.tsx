@@ -56,7 +56,7 @@ export default function BookYourSlot() {
 
             {/* Calendly Embed */}
             <iframe
-              src="https://calendly.com/saket-aryanr64x/consultation"
+              src="https://calendly.com/hi-lavenderandlighttherapy/30min"
               className="w-full h-full rounded-xl"
               frameBorder="0"
             />
