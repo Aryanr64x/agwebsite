@@ -8,7 +8,7 @@ type Contact = {
 const contacts: Contact[] = [
   {
     label: "Email",
-    value: "hello@lavenderandlight.com",
+    value: " hi@lavenderandlighttherapy.com",
   },
   {
     label: "Phone",
