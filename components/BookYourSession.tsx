@@ -17,13 +17,12 @@ const steps: Step[] = [
     number: 2,
     title: "Book a convenient slot",
     description:
-      "Pick a session time that works best for you. All sessions are online ensuring comfort and ease.",
+      "Pick a session time that works best for you. All sessions are online ensuring comfort and ease. You will receive a confirmation email with the session link once the slot is booked.",
   },
   {
     number: 3,
     title: "Confirm with payment",
-    description:
-      "Confirm with payment:- After completing the payment, your session will be confirmed and the session link will be sent to your registered email address",
+    description: "After scheduling, an intake form and payment details will be shared via email.Your session is considered confirmed only after the intake form is submitted and payment is completed.Once payment is done, a confirmation message will be sent to you shortly, along with the Google Meet link for your session.",
   },
 ];
 
