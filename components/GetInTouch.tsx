@@ -26,7 +26,7 @@ const contacts: Contact[] = [
 
 export default function GetInTouch() {
   return (
-    <section className="py-16 " id="getintouch">
+    <section className="py-16 " id="contact">
       <div className="max-w-6xl mx-auto px-6">
         <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-900">
           Get in Touch
