@@ -39,9 +39,9 @@ const cards: Card[] = [
     back: "Supportive Psychotherapy provides a safe, nurturing space where empathy and trust form the foundation for coping, self-reflection, and emotional resilience.",
   },
   {
-    title: "Movement and Mindfulness-Based Approaches",
-    front: "The body holds stories the mind cannot always express.",
-    back: "These approaches use movement, breath, and mindfulness to help you reconnect with yourself, release tension, and find balance in the present moment.",
+    title: "Mindfulness-Based Approaches",
+    front: "The mind and body learn to stay present, aware, and gently connected.",
+    back: "These approaches use awareness, breath, and present-moment attention to help you reconnect with yourself, reduce stress, and cultivate emotional balance and clarity.",
   },
 ];
 
